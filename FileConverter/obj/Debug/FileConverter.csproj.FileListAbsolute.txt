@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\C#_pracrice\FileConverter\FileConverter\obj\Debug\FileConverter.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\C#_pracrice\FileConverter\FileConverter\obj\Debug\FileConverter.MainForm.resources
+C:\Users\Administrator\Desktop\C#_pracrice\FileConverter\FileConverter\obj\Debug\FileConverter.Properties.Resources.resources
+C:\Users\Administrator\Desktop\C#_pracrice\FileConverter\FileConverter\obj\Debug\FileConverter.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\C#_pracrice\FileConverter\FileConverter\obj\Debug\FileConverter.csproj.CoreCompileInputs.cache
