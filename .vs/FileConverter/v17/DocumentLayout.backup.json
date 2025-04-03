@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\C#_pracrice\\FileConverter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B671AFEC-F163-4AAF-83C9-8326FF32437F}|FileConverter\\FileConverter.csproj|c:\\users\\administrator\\desktop\\c#_pracrice\\fileconverter\\fileconverter\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B671AFEC-F163-4AAF-83C9-8326FF32437F}|FileConverter\\FileConverter.csproj|solutionrelative:fileconverter\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B671AFEC-F163-4AAF-83C9-8326FF32437F}|FileConverter\\FileConverter.csproj|C:\\Users\\Administrator\\Desktop\\C#_pracrice\\FileConverter\\fileconverter\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B671AFEC-F163-4AAF-83C9-8326FF32437F}|FileConverter\\FileConverter.csproj|solutionrelative:fileconverter\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C#_pracrice\\FileConverter\\FileConverter\\Form1.cs",
+              "RelativeDocumentMoniker": "FileConverter\\Form1.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C#_pracrice\\FileConverter\\FileConverter\\Form1.cs",
+              "RelativeToolTip": "FileConverter\\Form1.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAgwG4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T12:18:17.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C#_pracrice\\FileConverter\\FileConverter\\Form1.cs",
+              "RelativeDocumentMoniker": "FileConverter\\Form1.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C#_pracrice\\FileConverter\\FileConverter\\Form1.cs [Design]",
+              "RelativeToolTip": "FileConverter\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T12:16:18.037Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
